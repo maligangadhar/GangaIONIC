@@ -1,0 +1,7 @@
+{
+  "name": "GangaIONICSide",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
